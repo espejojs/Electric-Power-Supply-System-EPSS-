@@ -1,7 +1,7 @@
 # MATLAB Fall 2014 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
+> * Group Name: New name
 > * Group participants names: (alphabetically sorted by last name)
 > * Project Title: (can be changed later)
 
